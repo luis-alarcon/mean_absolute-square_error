@@ -1,7 +1,8 @@
 #import packages
 import sys
-import pandas as pd
 import numpy as np
+import pandas as pd
+
 
 # Formula for Absolute trick and Square Trick
 def trick(cho,w1,w2):
